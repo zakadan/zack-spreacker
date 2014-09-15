@@ -1,4 +1,0 @@
-zack-spreacker
-==============
-
-Personal Site
